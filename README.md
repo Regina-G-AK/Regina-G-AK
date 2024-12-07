@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Regina-G-AK
-- 👀 I’m interested in developing community website.
 - 🌱 I’m currently learning LLMs and spatio-temporal data prediction.
 - 📫 How to reach me: Please email me via guoregina03@gmail.com
 - 😄 Pronouns: She/ her
